@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohamed Fayed
 ==============================
 
-Computer Engineering student
+Computer Engineering student passionate about Video games and AI
 ----------------------------
 
 * 🌍  I'm based in Morocco
