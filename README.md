@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fayed</h1>
 <h3 align="center">A fullstack Engineering Student !</h3>
 
-- 🌱 I’m currently learning **Some Data Course**
+- 🌱 I’m currently learning **Some Data's Courses**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
