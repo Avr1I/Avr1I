@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fayed</h1>
 <h3 align="center">A fullstack Engineering Student !</h3>
 
-- 🌱 I’m currently learning **Some Datas Stuff**
+- 🌱 I’m currently learning **Some Data's Stuff** At Uni
+-  I like to Code Things that Solve Problems I Encounter In My Daily Life
+-  I'm currently working on an AI based Pinterest Upscaler
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
